@@ -28,5 +28,4 @@ Routing information protocol — динамический протокол ма�
 
 [Описание в формате .pdf доступно здесь](https://github.com/SalemNight1/SalemNight1.github.io/blob/main/%D0%9B%D0%B0%D0%B1%D0%B03/Grigoryan_laba_3.pdf)
 ## ☑Экзаменационный билет № 22
-https://github.com/stankin/inet-2022/wiki/exam22
-С рефератом можно ознакомиться перейдя по [ссылке](https://github.com/stankin/inet-2022/wiki/exam22) (вклад в реферат).
+С рефератом можно ознакомиться перейдя по [ссылке](https://github.com/stankin/inet-2022/wiki/exam22) [вклад в реферат](https://github.com/stankin/inet-2022/wiki/exam22/_compare/99e4f794b222314d3ab6139872b7d2edd64ebb91...cd4294da11a4f1cd3bb838d1a4ee8f8b55dee9e8).
