@@ -19,7 +19,7 @@
 * [Петрищева Полина](https://polinapetrishcheva.github.io/lab-petrishcheva/) (Бизнес-анализ)
 * [Демушкин Дмитрий](https://dmitrydemushkin1998.github.io/lab-demushkin/) (Бизнес-анализ)
 3. было выбрано название команды - The Legendary Four;
-4. было спроектировано и разработано приложение, ознакомиться с которым можно на [целевой странице]() ([репозиторий](https://github.com/SalemNight1/Laba_2/blob/main/README.md));
+4. было спроектировано и разработано приложение, ознакомиться с которым можно на [целевой странице](https://ownc.avmenergo.ru/) ([репозиторий](https://github.com/SalemNight1/Laba_2/blob/main/README.md));
 5. проект не был зарегистрирован на участие в конкурсе.
 
 ## ☑Лабораторная работа № 3. Адаптивная маршрутизация
